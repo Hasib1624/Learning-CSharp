@@ -10,12 +10,21 @@ This is a changing list of things I have summarized so far in this repository.
 
 Happy Learning :D
 
-## OOP
+
+## C\# Language Features
+- [FileIO](https://github.com/MzMahmud/Learning-CSharp/blob/master/FileIO.cs)
+- [Lambda Expression](https://github.com/MzMahmud/Learning-CSharp/blob/master/SortingWithLibraryFunctions.cs)
+
+## C\# OOP Features
 - [Getter Setter](https://github.com/MzMahmud/Learning-CSharp/blob/master/ClassComplexNumber.cs)
 - [Constructor](https://github.com/MzMahmud/Learning-CSharp/blob/master/ClassComplexNumber.cs)
 - [Static Method](https://github.com/MzMahmud/Learning-CSharp/blob/master/ClassComplexNumber.cs)
-- [Override Method](https://github.com/MzMahmud/Learning-CSharp/blob/master/ClassComplexNumber.cs)
 - [Operator Overloding](https://github.com/MzMahmud/Learning-CSharp/blob/master/ClassComplexNumber.cs)
+- [Inheritance](https://github.com/MzMahmud/Learning-CSharp/blob/master/Inheritance.cs)
+- [Method Overriding](https://github.com/MzMahmud/Learning-CSharp/blob/master/Inheritance.cs)
+- [Dynamic Method Dispatch or Runtime Polymorphism](https://github.com/MzMahmud/Learning-CSharp/blob/master/Inheritance.cs)
+- [Interface](https://github.com/MzMahmud/Learning-CSharp/blob/master/Inheritance.cs)
+- [Abstract Class](https://github.com/MzMahmud/Learning-CSharp/blob/master/Inheritance.cs)
 
 ## Built-in Data Structures and Algorithms
 - [`List`](https://github.com/MzMahmud/Learning-CSharp/blob/master/List.cs) like C++ `std::vector`(Dynamic Array)
@@ -26,7 +35,3 @@ Happy Learning :D
 - [`SortedSet`](https://github.com/MzMahmud/Learning-CSharp/blob/master/SortedSetDictionary.cs) like C++ `std::set` (Balanced Binary Search Tree)
 - [`SortedDictionary`](https://github.com/MzMahmud/Learning-CSharp/blob/master/SortedSetDictionary.cs) like C++ `std::map` (Balanced Binary Search Tree)
 - [`Sorting`](https://github.com/MzMahmud/Learning-CSharp/blob/master/SortingWithLibraryFunctions.cs) with default and custom Comparator
-
-## C\# Language Features
-- [FileIO](https://github.com/MzMahmud/Learning-CSharp/blob/master/FileIO.cs)
-- [Lambda Expression](https://github.com/MzMahmud/Learning-CSharp/blob/master/SortingWithLibraryFunctions.cs)
